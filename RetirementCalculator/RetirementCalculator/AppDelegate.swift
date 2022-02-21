@@ -19,7 +19,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         AppCenter.logLevel = .verbose
-        AppCenter.start(withAppSecret: "4bea29e7-67f5-4481-9406-c5105d9976e4", services: [Analytics.self, Crashes.self])
+        AppCenter.start(withAppSecret: "bcb6f9a1-87b1-4f24-a1a9-a2a878dcc454", services: [Analytics.self, Crashes.self])
         
         return true
     }

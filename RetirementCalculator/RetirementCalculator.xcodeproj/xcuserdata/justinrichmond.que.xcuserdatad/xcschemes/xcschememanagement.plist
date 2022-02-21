@@ -6,8 +6,28 @@
 	<dict>
 		<key>RetirementCalculator.xcscheme_^#shared#^_</key>
 		<dict>
+			<key>isShown</key>
+			<true/>
 			<key>orderHint</key>
 			<integer>4</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>040D15C527C341AD0071D764</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>040D15DB27C341AF0071D764</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>040D15E527C341AF0071D764</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
